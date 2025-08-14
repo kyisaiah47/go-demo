@@ -1,0 +1,16 @@
+# Go binaries
+go-task-api
+*.exe
+main
+
+# Go build cache
+.cache/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.dbtask-api
+*.exe
