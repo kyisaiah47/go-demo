@@ -12,5 +12,8 @@ main
 
 # OS files
 .DS_Store
-Thumbs.dbtask-api
+Thumbs
+.dbtask-api
+*.exe
+task-api
 *.exe
