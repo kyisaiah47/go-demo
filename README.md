@@ -37,7 +37,7 @@ A high-performance task management API built with Go and Gin framework, demonstr
 ### Quick Start
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/go-task-api.git
+git clone https://github.com/kyisaiah/go-demo.git
 cd go-task-api
 
 # Download dependencies
